@@ -1,0 +1,40 @@
+{
+  "applications": "*",
+  "changelogDate": "20230412104934",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "region",
+  "fields": [
+    {
+      "fieldName": "nameUzLat",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "nameUzKr",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "nameRu",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "nameEn",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "longitude",
+      "fieldType": "Double"
+    },
+    {
+      "fieldName": "latitude",
+      "fieldType": "Double"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "Region",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [],
+  "service": "no"
+}

@@ -1,0 +1,9 @@
+{
+  "elonlarApp": {
+    "AnnouncementStatus": {
+      "null": "",
+      "ACTIVE": "ACTIVE",
+      "INACTIVE": "INACTIVE"
+    }
+  }
+}

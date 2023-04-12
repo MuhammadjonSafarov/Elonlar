@@ -1,0 +1,36 @@
+{
+  "elonlarApp": {
+    "announcement": {
+      "home": {
+        "title": "Announcements",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Yangi Announcement qo`shish",
+        "createOrEditLabel": "Announcementni tahrirlash",
+        "notFound": "No Announcements found"
+      },
+      "created": "Announcement {{ param }} bilan qo`shildi",
+      "updated": "{{ param }}- Announcement saqlandi",
+      "deleted": "{{ param }}- Announcement o`chirildi",
+      "delete": {
+        "question": "{{ id }}- Announcementni o`chirmoqchimisiz? "
+      },
+      "detail": {
+        "title": "Announcement"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "longitude": "Longitude",
+      "latitude": "Latitude",
+      "status": "Status",
+      "region": "Region",
+      "district": "District",
+      "category": "Category",
+      "subcategory": "Subcategory"
+    }
+  }
+}

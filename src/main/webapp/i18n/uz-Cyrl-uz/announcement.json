@@ -1,0 +1,36 @@
+{
+  "elonlarApp": {
+    "announcement": {
+      "home": {
+        "title": "Announcements",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Announcement қўшиш",
+        "createOrEditLabel": "Announcementни таҳрирлаш",
+        "notFound": "No Announcements found"
+      },
+      "created": "Announcement {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Announcement сақланди.",
+      "deleted": "{{ param }}- Announcement ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Announcementни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Announcement"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "longitude": "Longitude",
+      "latitude": "Latitude",
+      "status": "Status",
+      "region": "Region",
+      "district": "District",
+      "category": "Category",
+      "subcategory": "Subcategory"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "elonlarApp": {
+    "announcement": {
+      "home": {
+        "title": "Announcements",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Announcement",
+        "createOrEditLabel": "Создать или отредактировать Announcement",
+        "notFound": "Announcements не найдено"
+      },
+      "created": "Новый Announcement создан с идентификатором {{ param }}",
+      "updated": "Announcement обновлен с идентификатором {{ param }}",
+      "deleted": "Announcement удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Announcement {{ id }}?"
+      },
+      "detail": {
+        "title": "Announcement"
+      },
+      "id": "ID",
+      "title": "Title",
+      "description": "Description",
+      "email": "Email",
+      "phoneNumber": "Phone Number",
+      "hireDate": "Hire Date",
+      "salary": "Salary",
+      "longitude": "Longitude",
+      "latitude": "Latitude",
+      "status": "Status",
+      "region": "Region",
+      "district": "District",
+      "category": "Category",
+      "subcategory": "Subcategory"
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "elonlarApp": {
+    "region": {
+      "home": {
+        "title": "Regions",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый Region",
+        "createOrEditLabel": "Создать или отредактировать Region",
+        "notFound": "Regions не найдено"
+      },
+      "created": "Новый Region создан с идентификатором {{ param }}",
+      "updated": "Region обновлен с идентификатором {{ param }}",
+      "deleted": "Region удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить Region {{ id }}?"
+      },
+      "detail": {
+        "title": "Region"
+      },
+      "id": "ID",
+      "nameUzLat": "Name Uz Lat",
+      "nameUzKr": "Name Uz Kr",
+      "nameRu": "Name Ru",
+      "nameEn": "Name En",
+      "longitude": "Longitude",
+      "latitude": "Latitude"
+    }
+  }
+}

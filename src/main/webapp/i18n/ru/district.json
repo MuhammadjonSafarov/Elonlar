@@ -1,0 +1,30 @@
+{
+  "elonlarApp": {
+    "district": {
+      "home": {
+        "title": "Districts",
+        "refreshListLabel": "Обновить список",
+        "createLabel": "Создать новый District",
+        "createOrEditLabel": "Создать или отредактировать District",
+        "notFound": "Districts не найдено"
+      },
+      "created": "Новый District создан с идентификатором {{ param }}",
+      "updated": "District обновлен с идентификатором {{ param }}",
+      "deleted": "District удален с идентификатором {{ param }}",
+      "delete": {
+        "question": "Вы уверены что хотите удалить District {{ id }}?"
+      },
+      "detail": {
+        "title": "District"
+      },
+      "id": "ID",
+      "nameUzLat": "Name Uz Lat",
+      "nameUzKr": "Name Uz Kr",
+      "nameRu": "Name Ru",
+      "nameEn": "Name En",
+      "longitude": "Longitude",
+      "latitude": "Latitude",
+      "region": "Region"
+    }
+  }
+}

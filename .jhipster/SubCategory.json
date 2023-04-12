@@ -1,0 +1,38 @@
+{
+  "applications": "*",
+  "changelogDate": "20230412112609",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "sub_category",
+  "fields": [
+    {
+      "fieldName": "nameUzLat",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "nameUzKr",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "nameRu",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "nameEn",
+      "fieldType": "String"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "SubCategory",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityName": "category",
+      "relationshipName": "category",
+      "relationshipType": "many-to-one"
+    }
+  ],
+  "service": "no"
+}

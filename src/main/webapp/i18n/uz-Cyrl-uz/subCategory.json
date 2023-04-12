@@ -1,0 +1,28 @@
+{
+  "elonlarApp": {
+    "subCategory": {
+      "home": {
+        "title": "Sub Categories",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Sub Category қўшиш",
+        "createOrEditLabel": "Sub Categoryни таҳрирлаш",
+        "notFound": "No Sub Categories found"
+      },
+      "created": "Sub Category {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Sub Category сақланди.",
+      "deleted": "{{ param }}- Sub Category ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Sub Categoryни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Sub Category"
+      },
+      "id": "ID",
+      "nameUzLat": "Name Uz Lat",
+      "nameUzKr": "Name Uz Kr",
+      "nameRu": "Name Ru",
+      "nameEn": "Name En",
+      "category": "Category"
+    }
+  }
+}

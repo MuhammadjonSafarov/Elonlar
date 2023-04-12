@@ -1,0 +1,29 @@
+{
+  "elonlarApp": {
+    "region": {
+      "home": {
+        "title": "Regions",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги Region қўшиш",
+        "createOrEditLabel": "Regionни таҳрирлаш",
+        "notFound": "No Regions found"
+      },
+      "created": "Region {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- Region сақланди.",
+      "deleted": "{{ param }}- Region ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Regionни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "Region"
+      },
+      "id": "ID",
+      "nameUzLat": "Name Uz Lat",
+      "nameUzKr": "Name Uz Kr",
+      "nameRu": "Name Ru",
+      "nameEn": "Name En",
+      "longitude": "Longitude",
+      "latitude": "Latitude"
+    }
+  }
+}

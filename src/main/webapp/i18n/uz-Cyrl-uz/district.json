@@ -1,0 +1,30 @@
+{
+  "elonlarApp": {
+    "district": {
+      "home": {
+        "title": "Districts",
+        "refreshListLabel": "Refresh list",
+        "createLabel": "Янги District қўшиш",
+        "createOrEditLabel": "Districtни таҳрирлаш",
+        "notFound": "No Districts found"
+      },
+      "created": "District {{ param }} билан қўшилди.",
+      "updated": "{{ param }}- District сақланди.",
+      "deleted": "{{ param }}- District ўчирилди.",
+      "delete": {
+        "question": "{{ id }}- Districtни ўчирмоқчимисиз? "
+      },
+      "detail": {
+        "title": "District"
+      },
+      "id": "ID",
+      "nameUzLat": "Name Uz Lat",
+      "nameUzKr": "Name Uz Kr",
+      "nameRu": "Name Ru",
+      "nameEn": "Name En",
+      "longitude": "Longitude",
+      "latitude": "Latitude",
+      "region": "Region"
+    }
+  }
+}

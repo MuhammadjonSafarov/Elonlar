@@ -1,0 +1,46 @@
+{
+  "applications": "*",
+  "changelogDate": "20230412104935",
+  "dto": "no",
+  "embedded": false,
+  "entityTableName": "district",
+  "fields": [
+    {
+      "fieldName": "nameUzLat",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "nameUzKr",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "nameRu",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "nameEn",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "longitude",
+      "fieldType": "Double"
+    },
+    {
+      "fieldName": "latitude",
+      "fieldType": "Double"
+    }
+  ],
+  "fluentMethods": true,
+  "jpaMetamodelFiltering": false,
+  "name": "District",
+  "pagination": "pagination",
+  "readOnly": false,
+  "relationships": [
+    {
+      "otherEntityName": "region",
+      "relationshipName": "region",
+      "relationshipType": "many-to-one"
+    }
+  ],
+  "service": "no"
+}
